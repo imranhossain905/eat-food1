@@ -1,0 +1,29 @@
+.orange-color {
+    color: orange;
+}
+
+.top-taxt {
+    font-size: 40px;
+}
+
+section {
+    display: flex;
+}
+
+.hulf-width {
+    width: 50%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.pic {
+    width: 50%;
+
+}

@@ -1,29 +1,64 @@
+section {
+    display: flex;
+
+}
+
 .orange-color {
     color: orange;
+    margin-left: 50px;
 }
 
 .top-taxt {
     font-size: 40px;
+    padding: 2px 2px;
+    margin-top: 150px;
+    margin-bottom: -30px;
+    margin-left: 2px;
+
 }
 
-section {
-    display: flex;
+.top-taxt1 {
+    font-size: 40px;
+    padding: 2px 2px;
+    margin-bottom: -30px;
+    margin-left: 50px;
+}
+
+.mid-taxt {
+    margin-top: 15%;
+    margin-left: 10%;
+
+
 }
 
 .hulf-width {
     width: 50%;
+
+
 }
 
-.link-button {
+.pic-one {
+    width: 60%;
+    margin: 10px 10px;
+
+}
+
+
+.button {
+    text-align: center;
     text-decoration: none;
-    background-image: linear-gradient(orange tomato);
-    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
     color: white;
     font-weight: 700;
-    border-radius: 5px;
+    border-radius: 10px;
+    margin-top: 100px;
+
+
 }
 
 .pic {
-    width: 50%;
-
+    width: 100%;
+    margin-right: 20px;
+    margin-top: 50px;
 }

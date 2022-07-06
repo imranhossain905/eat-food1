@@ -27,8 +27,14 @@ section {
 .mid-taxt {
     margin-top: 15%;
     margin-left: 10%;
+    margin-bottom: 50px;
 
+}
 
+.mid-taxt-one {
+    margin: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
 }
 
 .hulf-width {
@@ -43,7 +49,6 @@ section {
 
 }
 
-
 .button {
     text-align: center;
     text-decoration: none;
@@ -54,13 +59,47 @@ section {
     border-radius: 10px;
     margin-top: 700px;
     margin-left: 45px;
+}
 
-
-
+.button-two {
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-top: 800px;
+    margin-left: 80px;
 }
 
 .pic {
     width: 100%;
     margin-right: 20px;
     margin-top: 50px;
+}
+
+.pic-two {
+    width: 400px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+.mid-taxt1 {
+    font-size: 30px;
+    color: gray;
+    margin-top: 120px;
+    text-align: center;
+}
+
+.mid-taxt2 {
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+.mid-div {
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 20px;
 }
